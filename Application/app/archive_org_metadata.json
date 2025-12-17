@@ -1,0 +1,572 @@
+[
+  {
+    "topic": "artificial intelligence",
+    "title": "When Machine Learning meets privacy - Episode  with Charles Radclyffe",
+    "description": "**AI and ethical dilemmas** Artificial Intelligence is seen by many as a vehicle for great transformation, but for others, it still remains a mystery, and many questions remain unanswered: will AI systems rule us one day? Can we trust AI to rule our criminal systems? Maybe create political campaigns and dominate political advertisements? Or maybe something less harmful, do our laundry? Some of these questions may sound absurd, but they are for sure making people shift from thinking purely about functional AI capabilities but also to look further to the ethics behind creating such powerful solutions.   For this episode we count with Charles Radclyffe as a guest, the data philosopher, to cover some of these dilemmas. You can reach out to Charles through LinkedIn or at ethicsgrade.io   Useful links:   - MLOps.Community slack - TEDx talk - Surviving the Robot Revolution - Digital Ethics whitepaper......",
+    "url": "https://archive.org/details/gyotnqar3kmz9htrqr5qhcrahzc6lpnokpmdjcis"
+  },
+  {
+    "topic": "artificial intelligence",
+    "title": "Controversy @ Noon",
+    "description": "As the presence of Artificial Intelligence evolves and its reach continues to expand, writers are forced to ask themselves: What does this mean for me and my work? The topic of AI is multi-faceted, and while AI promises endless possibilities for artists and writers alike, it also brings with it fear and uncertainty. What lines have been drawn between AI as a supplemental tool and AI as the career-crushing thief many believe it could be?...",
+    "url": "https://archive.org/details/jpbdrrqw8knftoepxkjaa51plvbatydf4ttdwvs5"
+  },
+  {
+    "topic": "artificial intelligence",
+    "title": "What does artificial intelligence mean for the future of equitable, accessible healthcare?",
+    "description": "Artificial intelligence is shaping healthcare in Canada and around the world. The role of AI in delivering care will evolve and, indeed, grow. As a series of tools, it offers opportunities for patients and practitioners; yet, as with any technology, it comes with risks......",
+    "url": "https://archive.org/details/iz1xdvcaj9t69xxuqlrju0aam6orzsmimrhlbpm8"
+  },
+  {
+    "topic": "artificial intelligence",
+    "title": "Operationalizing ML/AI with MemSQL (Practical AI #)",
+    "description": "A lot of effort is put into the training of AI models, but, for those of us that actually want to run AI models in production, performance and scaling quickly become blockers. Nikita from MemSQL joins us to talk about how people are integrating ML/AI inference at scale into existing SQL-based workflows. He also touches on how model features and raw files can be managed and integrated with distributed databases....",
+    "url": "https://archive.org/details/j47auuf8icfcqaqfeexdgp7jqtrbv2gz9zh0wbvx"
+  },
+  {
+    "topic": "artificial intelligence",
+    "title": "FrugalGPT: Better Quality and Lower Cost for LLM Applications // Lingjiao Chen // MLOps Podcast #",
+    "description": "MLOps Coffee Sessions # with Lingjiao Chen, FrugalGPT: Better Quality and Lower Cost for LLM Applications. This episode is sponsored by QuantumBlack.We are now accepting talk proposals for our next LLM in Production virtual conference on October rd. Apply to speak here: https://go.mlops.community/NSAXO// AbstractThere is a rapidly growing number of large language models (LLMs) that users can query for a fee......",
+    "url": "https://archive.org/details/j6vw9fxvv2y2zhuwg1e8wcbwgjrvmoy2skqddtyr"
+  },
+  {
+    "topic": "artificial intelligence",
+    "title": "Using AI to decode the language of whales",
+    "description": "Ottawa scientist Shane Gero is using artificial intelligence to decode the patterns of clicks and pauses that sperm whales use to communicate. He tells us why decoding the languages of animals could lead to better protections for the natural world.",
+    "url": "https://archive.org/details/m2snsuqml2s0no9vn90uuogem5elzxpj3ldflwb1"
+  },
+  {
+    "topic": "artificial intelligence",
+    "title": "LM-: How to Reason About Uncertain Events using Fuzzy Set Theory and Fuzzy Measure Theory",
+    "description": "Learning Machines  - A Gentle Introduction to Artificial Intelligence and Machine LearningEpisode Summary: In real life, there is no certainty. There are always exceptions. In this episode, two methods are discussed for making inferences in uncertain environments......",
+    "url": "https://archive.org/details/gx8ggepoasb0kelvms1yjwtlewqxtcn28pmwlv2k"
+  },
+  {
+    "topic": "artificial intelligence",
+    "title": "LM-: How to Build a Machine that Learns to Play Checkers (remix)",
+    "description": "This is a remix of the original second episode Learning Machines  which describes in a little more detail how the computer program that Arthur Samuel developed in  learned to play checkers by itself without human intervention using a mixture of classical artificial intelligence search methods and artificial neural network learning algorithms. The podcast ends with a book review of Professor Nilsson's book: \\\"The Quest for Artificial Intelligence: A History of Ideas and Achievements\\\".",
+    "url": "https://archive.org/details/h5lmqicik3ybmbqln7ytkfuulrtdttf8sjh7bg94"
+  },
+  {
+    "topic": "artificial intelligence",
+    "title": "Derrick Broze Interview - Impending &#;Planetary Emergency&#; & &#;Permacrisis&#; That Will End Sovereignty",
+    "description": "Joining me today is Derrick Broze, here to discuss the recent COP meeting, and the numerous agendas that are building around what we are told is the current \\\"polycrisis\\\", with many claiming that this will inevitably become a \\\"permacrisis\\\" without the declaration of a \\\"planetary emergency\\\" -- all for your safety of course. We also discuss what is expected to be the culmination of the fluoride trial and how TLAV is going to be there for every moment, as well as the the overwhelming reality of the chemical soup we currently live in due to the incompetence, malfeasance, and outright disregard of our government (Recorded on //).!function(r,u,m,b,l,e){r._Rumble=b,r[b]||(r[b]=function(){(r[b]._=r[b]._||[]).push(arguments);if(r[b]._.length==){l=u.createElement(m),e=u.getElementsByTagName(m)[],l.async=,l.src=\\\"https://rumble.com/embedJS/uq\\\"+(arguments[].video?'.'+arguments[].video:'')+\\\"/?url=\\\"+encodeURIComponent(location.href)+\\\"&args=\\\"+encodeURIComponent(JSON.stringify([].slice.apply(arguments))),e.parentNode.insertBefore(l,e)}})}(window, document, \\\"script\\\", \\\"Rumble\\\"); Rumble(\\\"play\\\", {\\\"video\\\":\\\"vzsp\\\",\\\"div\\\":\\\"rumble_vzsp\\\"});Source Links:https://www.thelastamericanvagabond.com/cop-comes-to-an-end/New TabLandmark Fluoride Lawsuit Restarts Soon: Why You Should CareFluoride Trial Archives - The Last American VagabondThe Fluoride Infowar: Newly Released Emails Show California Dental Director Alter Study to Remove Negative ConclusionsGiveSendGo - Covering The Culmination Of The Fluoride Trial: The Leader in Freedom Fundraising.Yet Another Study Links Lower Sperm Count with Pesticidessd_-_Malathion_(US).pdfEPA Analysis:  Percent of Endangered Species Threatened by Two Common PesticidesObligatory Pesticide Spraying In NYC, GM Mosquitoes & Flying Vaccinators - Are They All Connected?Are Endocrine Disrupting Chemicals (EDCs) Causing Gender Dysphoria? Let's Look At The EvidenceDr. McCullough Interview - Endocrine Disrupting Chemicals, Gender Dysphoria & The COVID- InjectionStephanie Seneff/Denis Rancourt Roundtable - Glyphosate, mRNA & Spike Proteins Destroying Your BodyNew TabWho Owns Your Children? The Government Keeps Acting Like It DoesNew TabPoliticians and Tech CEOs Are Calling for Regulation of Artificial Intelligence: Can The Public Trust Them?......",
+    "url": "https://archive.org/details/ka4zufskrwibow6joswbt9ggoyle4qkepvzvsci2"
+  },
+  {
+    "topic": "artificial intelligence",
+    "title": "EP : Lessons from a Sales and Finance Director of a  Rooftop Highline Auto Group",
+    "description": "In the latest Millionaire Car Salesman Podcast, Sean V. Bradley engages in a dynamic conversation with Dennis Gingrich, Sales and Finance Director at The Niello Auto Group! This high-energy episode offers a deep dive into the highline automotive market, exploring Dennis's journey from early car sales to his current leadership role. The duo discusses the challenges of the industry, emphasizing the crucial shift from transactional to relationship-based sales, especially in the evolving landscape post-pandemic!Dennis shares insights into the luxury brands represented by The Niello Auto Group, such as Porsche, Jaguar, and BMW, underscoring the significance of exceptional customer service in catering to high-end clientele......",
+    "url": "https://archive.org/details/fwynjyncijqzutow2zxlhmpcyq7wwkp7pjbq8puh"
+  },
+  {
+    "topic": "artificial intelligence",
+    "title": "C-Suite Unplugged: Cory Janssen, Co-Founder & Co-CEO of AltaML",
+    "description": "Cory Janssen, Co-Founder & Co-CEO of AltaML and long-time champion of Alberta's tech and innovation ecosystem, joins the show to talk about how artificial intelligence and machine learning can help create real solutions for business and social challenges and what the future for tech and innovation holds for Alberta.",
+    "url": "https://archive.org/details/hjbtwm1pagsfyqbxithsy441d5l0hbxheqffx839"
+  },
+  {
+    "topic": "artificial intelligence",
+    "title": "The $ trillion dollar ML model 💵 (Practical AI #)",
+    "description": "American Express is running what is perhaps the largest commercial ML model in the world; a model that automates over  billion decisions, ingests data from over $T in transactions, and generates decisions in mere milliseconds or less globally. Madhurima Khandelwal, head of AMEX AI Labs, joins us for a fascinating discussion about scaling research and building robust and ethical AI-driven financial applications.",
+    "url": "https://archive.org/details/k4dyqceilrd3qc9lvnl3l91auar9hzwf6wh2lixs"
+  },
+  {
+    "topic": "artificial intelligence",
+    "title": "The future of hearing technology",
+    "description": "Artificial intelligence is producing increasingly accurate weather forecasts, but climatologist Russ Schumacher says there's an element of chaos that the machines can't account for. He explains why it's not time to take humans out of the equation just yet.",
+    "url": "https://archive.org/details/k1pom8z72gy1hhzzpvrzyqxw9tw5xnljng4nry5d"
+  },
+  {
+    "topic": "artificial intelligence",
+    "title": "Intuit's Transformation: CIO Rajan Kumar on Cloud, 'Big Bets', & Product Orientation",
+    "description": ": Rajan joins us to speak about his experience driving one of the most extensive cloud adoption journeys in corporate America and managing a product-oriented operating model at Intuit. We discuss the company's 'Big Bets' and how technology is being used to bring them to life, specifically the company's AI virtual expert platform. Rajan covers how he interacts with different customer journeys, how he builds an ecosystem to leverage artificial intelligence tools, and what other trends in technology are on Rajan's radar......",
+    "url": "https://archive.org/details/km0jfhhjc3zowdiq14x3tv0iqejyv0g9hpmz1cfg"
+  },
+  {
+    "topic": "artificial intelligence",
+    "title": "Editor's Picks: April th",
+    "description": "A selection of three essential articles read aloud from the latest issue of The Economist . This week, how to worry wisely about artificial intelligence , why in Sudan and beyond, the trend towards global peace has been reversed (:) and if English nationalism is on the rise, no one has told the English (:). Please subscribe to The Economist for full access to print, digital and audio editions: www.economist.com/podcastoffer Hosted on Acast......",
+    "url": "https://archive.org/details/kfowcx8vdc3iwebckbfk8rzworoynvvyab6q0yz5"
+  },
+  {
+    "topic": "artificial intelligence",
+    "title": "Special Series: How Generative AI Changes Everything",
+    "description": "Generative AI seems to be everywhere right now, but what do you actually need to know?HBR IdeaCast is cutting through the noise in the special series How Generative AI Changes Everything. How will this new technology upend workforce productivity? What impact will it have on creativity and innovation? How can you build an internal culture that uses generative artificial intelligence and adopt it effectively in your organization? What could it mean for your company's strategy?Hosted by HBR editor in chief Adi Ignatius and HBR editor Amy Bernstein, you'll hear directly from the business leaders at the leading edge, as well as experts, who in some cases are questioning the ethics and speed of this rollout.If you want to understand what this technology means for your organization and how you can lead effectively, listen every Thursday in May in the HBR IdeaCast feed, after the regular Tuesday episode.",
+    "url": "https://archive.org/details/htfdupeywh2dqlv0d615t5o7cpigiwr1lrqwunaz"
+  },
+  {
+    "topic": "artificial intelligence",
+    "title": "LM-: How to Decide if a Machine is Artificially Intelligent (Rerun)",
+    "description": "This episode we discuss the Turing Test for Artificial Intelligence which is designed to determine if the behavior of a computer is indistinguishable from the behavior of a thinking human being. The chatbot A.L.I.C.E. (Artificial Linguistic Internet Computer Entity) is interviewed and basic concepts of AIML (Artificial Intelligence Markup Language) are introduced....",
+    "url": "https://archive.org/details/ibfdycgqhjb30kcg0ftoafhqntclcy8utywr3z64"
+  },
+  {
+    "topic": "artificial intelligence",
+    "title": "Vladimir Vapnik: Predicates, Invariants, and the Essence of Intelligence",
+    "description": "Vladimir Vapnik is the co-inventor of support vector machines, support vector clustering, VC theory, and many foundational ideas in statistical learning. He was born in the Soviet Union, worked at the Institute of Control Sciences in Moscow, then in the US, worked at AT&T, NEC Labs, Facebook AI Research, and now is a professor at Columbia University. His work has been cited over , times......",
+    "url": "https://archive.org/details/btwnzb6ijsmr8fygu5hmgzhqkuoo9awj7kpi68u4"
+  },
+  {
+    "topic": "artificial intelligence",
+    "title": "Artificial No Intelligence",
+    "description": "A.I, what do we think about it? IDK but I'm sure we make zero sense. Let us know what you think @beeroverchatter...",
+    "url": "https://archive.org/details/5hld0r0rgmulkwfdq9r2ilf8bhqtj6kpjsb8ndzp"
+  },
+  {
+    "topic": "artificial intelligence",
+    "title": "Techopia Live: Fidus Systems finds recipe for rapid growth",
+    "description": "Thanks to the pandemic, it took three years for Fidus Systems to celebrate its th anniversary. But CEO Alan Coady says the wait was well worth it. The Kanata-based company recently threw an anniversary bash, gathering most of its employees to mark five years of rapid growth......",
+    "url": "https://archive.org/details/em80bldnyqwvvtphdroipfbqncawuwf9wizz5kqc"
+  },
+  {
+    "topic": "cybersecurity",
+    "title": "Episode  - Facial recognition and physical security",
+    "description": "Josh and Kurt talk about facial recognition, physical security, banking, and Amazon Alexa.]]>...",
+    "url": "https://archive.org/details/akuu0tnyft2vy5fhctmc41y8mq0ri60uzjrdn7hc"
+  },
+  {
+    "topic": "cybersecurity",
+    "title": "Douglas Macgregor on Digital ID",
+    "description": "Digital IDs, also known as electronic or virtual IDs, offer several advantages and also come with certain risks. Digital IDs can be used in various ways to control people, both positively and negatively, depending on the intentions and implementation of the systems. Several critical issues need to be emphasized......",
+    "url": "https://archive.org/details/youtube-KDl5FWaWZXE"
+  },
+  {
+    "topic": "cybersecurity",
+    "title": "Episode  - Right to Repair Security",
+    "description": "Josh and Kurt talk about the new right to repair rules in the EU. There's a strange line between loving the idea of right to repair, but also being horrified as security people at the idea of a device being on the Internet for  year.",
+    "url": "https://archive.org/details/rnmnakw3nxweynx6hi18iuifkboepyy68gafvqkz"
+  },
+  {
+    "topic": "cybersecurity",
+    "title": "Episode  - Everybody Who Went To The Circus Is In The Circus (RSA )",
+    "description": "Josh and Kurt are at the same place at the same time! We discuss our RSA sessions and how things went. Talk of CVE IDs, open source libraries, Wordpress, and early morning sessions.",
+    "url": "https://archive.org/details/rxupovk6nbynj8slxnyvnymm4xbelqkpw7kmosxt"
+  },
+  {
+    "topic": "cybersecurity",
+    "title": "Fraud Protection (Ep. )",
+    "description": "You've probably heard the phrase, \\\"The best offense is a good defense.\\\" While it's often used in sports it's more important than ever in a completely different area of our lives: cybersecurity. Now that so much of our engagement with one another is virtual, it's critical to protect your sensitive information. On this episode of In the Money Insight, Cory discusses tips you can take to safeguard yourself and the proactive steps Falcon Wealth Advisors takes for its clients......",
+    "url": "https://archive.org/details/usukqrv6tiafwmp8cghmvxwfnl0qvbyg8hmaaqvc"
+  },
+  {
+    "topic": "cybersecurity",
+    "title": "#: Deep State Desperation: How Far Will They Go?",
+    "description": "Support Us:* Merchandise: https://www.teespring.com/stores/pardonmyamerican* Patreon: https://www.patreon.com/user?u=* PayPal: https://www.paypal.com/donate/?token=FfkbKgRsneCZJxFQJHesPkcSvuwvwNgkXqnKeKJmJKcEIvzamTyhAtYtQh&country.x=US&locale.x=US______________________________Follow Us:* YouTube: https://www.youtube.com/channel/UCcAYbslKnnrwdzpRCGA* Apple Podcasts: https://podcasts.apple.com/us/podcast/pardon-my-american/id* Instagram: https://www.instagram.com/pardon_my_american/* Twitter: https://twitter.com/AmericanPardon* Parler: https://parler.com/profile/PardonMyAmerican______________________________Episode Description:The guys open the show diving into Twitter banning Q@NN-related accounts and how this move to clamp down free speech could backfire against them by sparking more interest in Q. They then discuss several recent events, including a BLM individual kneeling on the neck of a child, the end of a -year old sex cult, and Trump \\\"wishing her well\\\" to Ghislaine Maxwell.The topic then sways into the swelling feud between the US and China. They touch on the Chinese nationals who were indicted for attempting to steal big C little v vaccine research and also the Chinese consulate that just set internal documents on fire......",
+    "url": "https://archive.org/details/w3weglpfp41ifefkepkaknuy6aresbvl2ahvenvt"
+  },
+  {
+    "topic": "cybersecurity",
+    "title": "Episode  - Fake or real? The security of counterfeit goods",
+    "description": "Josh and Kurt talk about marketplace safety and security. Will we ever see an end to the constant flow of counterfeit goods? The security industry has the same problem the marketplace industry has, without substantial injury we don't see movement towards meaningful change. Show Notes BrickLink Cars in Canada lighting on fire President Roosevelt used Al Capone's Limo Dangerous car seats Fake external hard drive ]]>......",
+    "url": "https://archive.org/details/85kdorole0wkrivhbp6uiyre3zneeg1e3w2qd1jo"
+  },
+  {
+    "topic": "cybersecurity",
+    "title": "Media Nation - May ,  - Church officials were fined K, CyberTitan IV National Finals & E-Book launched titled \"LIFE AFTER COVID\"",
+    "description": "On Media Nation, Karlene Nation speaks to Pastor Henry Hildebrandt who remains defiant after he & church officials were fined -thousand for hosting church services. Lawyer Lisa Bildy with Justice Centre discusses the case. Middle & High School students competing in the CyberTitan IV National Finals......",
+    "url": "https://archive.org/details/jdvdvgsiwjfb17inoj0frrsad9er8ik0rx1pjtld"
+  },
+  {
+    "topic": "cybersecurity",
+    "title": "Cybersecurity and Financial Stability",
+    "description": "The rate and intensity of cyber attacks on financial institutions has increased in recent years, but the risk that these attacks pose to our financial stability remains understudied in the financial industry and among regulators and policymakers. What would it look like if malicious actors took direct aim at the systemic stability of U.S. financial institutions? On October , Susan Hennessey spoke to three senior research scholars from Columbia's School of International and Public Affairs who are taking early steps to find the answer: Katheryn Rosen, former deputy assistant treasury secretary for financial institution policy; Jason Healey, former White House cyber adviser on the Bush administration; and financial-stability expert and former Federal Reserve official Patricia Mosser......",
+    "url": "https://archive.org/details/ksy36yhyfceh0lrmgmvn5loy4zv9sdcfmzguz3q2"
+  },
+  {
+    "topic": "cybersecurity",
+    "title": "Cyber Privateering",
+    "description": "Cybersecurity is the responsibility of everyone. A cyber attack is no longer confined to the digital realm and can have real impact on various industries like food, gas and medicine. But despite these challenges, there is an opportunity for a new whole-of-society approach to defend against the mounting cyber threats emanating from places like Russia, China and North Korea......",
+    "url": "https://archive.org/details/lbwhfjt8sjiffu99axejlgmlu6vcejebnvhcpegh"
+  },
+  {
+    "topic": "cybersecurity",
+    "title": "Episode  - \"I am not your supplier\" with Thomas Depierre",
+    "description": "Josh and Kurt talk to Thomas Depierre about his \\\"I am not a supplier\\\" blog post. We drink from the firehose on this one. Thomas describes the realities and challenges of being an open source maintainer......",
+    "url": "https://archive.org/details/katcibnqycp3rpqfvt8pnyccqu3ofrinxuyaawtf"
+  },
+  {
+    "topic": "cybersecurity",
+    "title": "How Much Privacy and Decentralization Really Matter, Feat. Jill Gunter",
+    "description": "This episode is sponsored by Nexo.io, Chainalysis, FTX US and NEAR. NLW is joined today by Jill Gunter, the chief strategy officer at Espresso Systems. In this conversation, they discuss why the U.S......",
+    "url": "https://archive.org/details/giyaghcmxqpzlfmbf8mlgia20mu9d9mya7l9jywg"
+  },
+  {
+    "topic": "cybersecurity",
+    "title": "Episode  - GPG, but nothing makes sense",
+    "description": "Josh and Kurt talk about their very silly GPG key management from the past. This is sadly a very true story that details how both Kurt and Josh protected their GPG keys. Josh's setup is like something out of a very bad spy novel......",
+    "url": "https://archive.org/details/k2eehwcxhfnub0jdqthru0gji1ovx0nyx4neys6i"
+  },
+  {
+    "topic": "cybersecurity",
+    "title": "Ep.  - Deceitful Delivery",
+    "description": "This episode features Stuart Crawford, a fellow Canadian, now living in Florida. Stuart heads up Ulistic MSP Marketing, which helps service providers market their services to customers. Try the \\\"CAN I BE PHISHED?\\\" online self-assessment game to get a taste of how fun and effective gamified learning and assessment can be......",
+    "url": "https://archive.org/details/k3ihg0d0yc2kzj8oh88jdd4puxwc8kr7bv4uhmh4"
+  },
+  {
+    "topic": "cybersecurity",
+    "title": "After the Merge, How Do We Think About Change Within Bitcoin?",
+    "description": "This episode is sponsored by Nexo.io, Chainalysis and FTX US. For this edition of \\\"Long Reads Sunday,\\\" NLW reads and discusses Chris Castiglione's \\\"Bitcoin Should Change ... Slowly,\\\" as well as a Twitter thread by Dan McArdle......",
+    "url": "https://archive.org/details/bahbiuxceb9ymqetekegsyallrzdcss6sh39k7yz"
+  },
+  {
+    "topic": "cybersecurity",
+    "title": "Episode  - Beer, security, and consistency; the newer, better, triad",
+    "description": "Josh and Kurt talk about what beer and reproducible builds have in common. It's a lot more than you think, and it mostly comes down to quality control. If you can't reproduce what you do, you're not a mature organization and you need maturity to have quality......",
+    "url": "https://archive.org/details/vgkmy7koyv0qmcbnhncwxipogmbuup7zxtwo4s89"
+  },
+  {
+    "topic": "cybersecurity",
+    "title": "Episode  - Scoring OpenSSF Security Scoring",
+    "description": "Josh and Kurt talk about the release of OpenSSF Security Scorecards version . This is a great project that will probably make a huge difference. Most of the things the scorecards are measuring are no brainier activities......",
+    "url": "https://archive.org/details/dofwz5xz9rg0hnp61jzvkupgsqmkvhbjkd2yfdqh"
+  },
+  {
+    "topic": "cybersecurity",
+    "title": "What Employers Want In Cybersecurity. Dragos' Josh Fullmer",
+    "description": "Exclusive Pre-release. Dragos top Cybersecurity recruiter joins Cyber Crime Junkies in the studio to discuss what employers want in cybersecurity. Topics: what employers want in cybersecurity careers, what employers want in cybersecurity, new approaches to enter cyber security, new approaches to enter cybersecurity, how red team exercises help you stay protected, how transition fro military into cybersecurity today, How start a career in cybersecurity today, effective communication for security internally in business, security best practices for business, how to choose the right bootcamps, How To Select The Right BootCamps, new approaches to enter the cybersecurity field, how can we spot fraud in business, where to start cyber security career, how to have effective communication internally in business, best ways to keep up to date on security news. We discuss how to build a strong security culture and importance of building your personal brand.  Connect with Josh directly: https://www.linkedin.com/in/josh-fullmer/ Full VIDEO Episode : ?????   https://youtu.be/LIbfIxBVy  Thanks for Listening and Watching. Many watch/listen but don't subscribe......",
+    "url": "https://archive.org/details/ekqmovj7vovw9gllyjn6rkcgcuvzftsu9ksw457h"
+  },
+  {
+    "topic": "cybersecurity",
+    "title": "Jack Smith Secures BOMBSHELL Evidence as Indictments LOOM",
+    "description": "The top-rated legal and political podcast Legal AF is back for another hard-hitting look at the most consequential developments at the intersection of law and politics. On this midweek's edition, anchors national trial attorney and strategist Michael Popok and former top prosecutor Karen Friedman Agnifilo, discuss: . Developments in the Manhattan DA's state prosecution of Donald Trump for business record fraud in the Stormy Daniels hush money coverup, including the prosecutor fighting off efforts by Trump to make this a \\\"federal case\\\", and their disclosure of secretly recorded audio tapes of Donald Trump they intend to use at trial; . new evidence in the fast-moving Mar a Lago criminal investigation that Trump's then lead lawyer Evan Corcoran has testified that Trump and his advisors lied to him about the location of documents to be returned to the government; and ......",
+    "url": "https://archive.org/details/bejnndqxyiaclmknbfevda4futmsnsuc71xvshzi"
+  },
+  {
+    "topic": "cybersecurity",
+    "title": "Episode . - Holy cow Beto was in the cDc, this is awesome!",
+    "description": "Josh and Kurt talk about Beto being in the Cult of the Dead Cow (cDc). This is a pretty big deal in a very good way. We hit on some history, why it's a great thing, what we can probably expect from opponents......",
+    "url": "https://archive.org/details/aagkadjp1yscgmadj2gzufxeqoqfc6s4weldijwt"
+  },
+  {
+    "topic": "cloud computing",
+    "title": "Dr. Bruce Damer on \"Genesis Engines\" at NetFlix HQ (Oct , )",
+    "description": "In the second \"Conscious in the Cloud\" session hosted by Tom Barbalet at Netflix HQ in Los Gatos, CA as part of a new series for the Biota.org podcast, Dr. Bruce Damer presents for the first time in public the conception of the \"Genesis Engine\" driven by the \"Genesis Formulation\". Inspired by the Drake Equation the formulation is ten factors that Damer and U.C......",
+    "url": "https://archive.org/details/Dr.BruceDamerGenesisEnginesNetFlixHQ"
+  },
+  {
+    "topic": "cloud computing",
+    "title": "Channel Update June",
+    "description": "ExplainingComputers update, including forthcoming Raspberry Pi B, Jetson Nano, LattePanda, Linux, quantum computing, D printing and other videos! The link I mentioned to the \"Bioprinting\" video is below. However, I am very pleased to report that over  view in  hours -- let alone  days -- have been gratefully received, and YouTube has now restored the video to normal status. So there are now no issues with any EC or ETF videos, which is very good news......",
+    "url": "https://archive.org/details/youtube-6MTa5AbcNQo"
+  },
+  {
+    "topic": "cloud computing",
+    "title": "Michael Wilde on Splunking the Cloud - CloudCampAustin Interviews",
+    "description": "While our audio recording equipment was having a nap at CloudCampAustin, I whipped out the video camera to talk with Michael Wilde of Splunk. Being at CloudCampAustin, we end up discussing how Splunk fits into all this cloud computing stuff: here, the point Michael lays out is that you've still got basic IT infrastructure to worry about and shift through, namely logs.Having worked at Tivoli in the past, I ask Michael to compare the traditional, Big  way of doing IT Management with how folks like Splunk and other \"Systems Management .\" (to use an old moniker) folks do it. It's sort of a best-of-breed vs......",
+    "url": "https://archive.org/details/Redmonk-MichaelWildeOnSplunkingTheCloudCloudCampAustinInterviews936-3"
+  },
+  {
+    "topic": "cloud computing",
+    "title": "Selection of BBC World Service Programmes : BBC Radio  LW : January ,  :AM-:AM GMT",
+    "description": "::AM-::AM GMT — Selection of BBC World Service Programmes // BBC Radio  joins the BBC World Service.",
+    "url": "https://archive.org/details/BBC_Radio_4_LW_20200117_020000"
+  },
+  {
+    "topic": "cloud computing",
+    "title": "github.com-hpcaitech-ColossalAI_-_--_--",
+    "description": "Making large AI models cheaper, faster and more accessible Colossal-AI [![logo](https://raw.githubusercontent.com/hpcaitech/public_assets/main/colossalai/img/colossal-ai_logo_vertical.png)](https://www.colossalai.org/) Colossal-AI: Making large AI models cheaper, faster and more accessible Paper | Documentation | Examples | Forum | Blog [![GitHub Repo stars](https://img.shields.io/github/stars/hpcaitech/ColossalAI?style=social)](https://github.com/hpcaitech/ColossalAI/stargazers) [![Build](https://github.com/hpcaitech/ColossalAI/actions/workflows/build_on_schedule.yml/badge.svg)](https://github.com/hpcaitech/ColossalAI/actions/workflows/build_on_schedule.yml) [![Documentation](https://readthedocs.org/projects/colossalai/badge/?version=latest)](https://colossalai.readthedocs.io/en/latest/?badge=latest) [![CodeFactor](https://www.codefactor.io/repository/github/hpcaitech/colossalai/badge)](https://www.codefactor.io/repository/github/hpcaitech/colossalai) [![HuggingFace badge](https://img.shields.io/badge/%F%F%A%HuggingFace-Join-yellow)](https://huggingface.co/hpcai-tech) [![slack badge](https://img.shields.io/badge/Slack-join-blueviolet?logo=slack&amp)](https://join.slack.com/t/colossalaiworkspace/shared_invite/zt-zbeeb-CBpjouvu~r~lcFzXw) [![WeChat badge](https://img.shields.io/badge/微信-加入-green?logo=wechat&amp)](https://raw.githubusercontent.com/hpcaitech/public_assets/main/colossalai/img/WeChat.png) | [English](README.md) | [中文](docs/README-zh-Hans.md) | Latest News [/] [ColossalChat: An Open-Source Solution for Cloning ChatGPT With a Complete RLHF Pipeline](https://medium.com/@yangyou_berkeley/colossalchat-an-open-source-solution-for-cloning-chatgpt-with-a-complete-rlhf-pipeline-edffbb) [/] [Intel and Colossal-AI Partner to Deliver Cost-Efficient Open-Source Solution for Protein Folding Structure Prediction](https://www.hpc-ai.tech/blog/intel-habana) [/] [AWS and Google Fund Colossal-AI with Startup Cloud Programs](https://www.hpc-ai.tech/blog/aws-and-google-fund-colossal-ai-with-startup-cloud-programs) [/] [Open Source Solution Replicates ChatGPT Training Process! Ready to go with only .GB GPU Memory](https://www.hpc-ai.tech/blog/colossal-ai-chatgpt) [/] [Hardware Savings Up to  Times for AIGC and Automatic Parallelism](https://medium.com/pytorch/latest-colossal-ai-boasts-novel-automatic-parallelism-and-offers-savings-up-to-x-for-stable-bff) [/] [Diffusion Pretraining and Hardware Fine-Tuning Can Be Almost X Cheaper](https://www.hpc-ai.tech/blog/diffusion-pretraining-and-hardware-fine-tuning-can-be-almost-x-cheaper) [/] [Use a Laptop to Analyze % of Proteins, With a Single-GPU Inference Sequence Exceeding ,](https://www.hpc-ai.tech/blog/use-a-laptop-to-analyze--of-proteins-with-a-single-gpu-inference-sequence-exceeding) [/] [HPC-AI Tech Completes $ Million Seed and Angel Round Fundraising](https://www.hpc-ai.tech/blog/hpc-ai-tech-completes--million-seed-and-angel-round-fundraising-led-by-bluerun-ventures-in-the) Table of Contents Why Colossal-AI Features Parallel Training Demo GPT- GPT- BERT PaLM OPT ViT Recommendation System Models Single GPU Training Demo GPT- PaLM Inference (Energon-AI) Demo GPT- OPT-B Online Serving for Text Generation B BLOOM Colossal-AI for Real World Applications ColossalChat: An Open-Source Solution for Cloning ChatGPT With a Complete RLHF Pipeline AIGC: Acceleration of Stable Diffusion Biomedicine: Acceleration of AlphaFold Protein Structure Installation PyPI Install From Source Use Docker Community Contributing Cite Us Why Colossal-AI Prof. James Demmel (UC Berkeley): Colossal-AI makes training AI models efficient, easy, and scalable. ( back to top ) ## FeaturesColossal-AI provides a collection of parallel components for you......",
+    "url": "https://archive.org/details/github.com-hpcaitech-ColossalAI_-_2023-03-31_09-45-00"
+  },
+  {
+    "topic": "cloud computing",
+    "title": "CNN Money Archive: Salesforce.com's cloud strategy",
+    "description": "CEO Marc Benioff says the key to the Web service company's success is its embrace of cloud computing.",
+    "url": "https://archive.org/details/t_co_salesforce_cloud.fortune_576x324_dl"
+  },
+  {
+    "topic": "cloud computing",
+    "title": ": RackN Digital Rebar with Rob Hirschfeld",
+    "description": "Chad talks to Rob Hirschfeld, the Founder and CEO of RackN, which develops software to help automate data centers, which they call Digital Rebar. RackN is focused on helping customers automate infrastructure. They focus on customer autonomy and self-management, and that's why they're a software company, not a services or as-a-service platform company......",
+    "url": "https://archive.org/details/conm0knyjw9n89jhkewqy78dcc8z6afosxil3anq"
+  },
+  {
+    "topic": "cloud computing",
+    "title": "MLOps Coffee Sessions #: Journey of Flyte at Lyft and Through Open-source // Ketan Umare",
+    "description": "Why was Flyte built at Lyft? What sorts of requirements does a ML infrastructure team have at lyft? What problems does it solve / use cases? Where does it fit in in the ML and Data ecosystem? What is the vision? Who should consider using it? Learnings as the engineering team tried to bootstrap an open-source community. Ketan Umare is a senior staff software engineer at Lyft responsible for technical direction of the Machine Learning Platform and is a founder of the Flyte project. Before Flyte he worked on ETA, routing and mapping infrastructure at Lyft......",
+    "url": "https://archive.org/details/4x7u8tokeyvxl1lx9bczlenxx8h5wxtnoxt7az6r"
+  },
+  {
+    "topic": "cloud computing",
+    "title": "How to start investing in US stock markets from India? With Viram Shah of Vested Finance",
+    "description": "Viram Shah from Vested Finance joins us on a special episode to discuss the simplest way for Indians and NRIs to invest in the US stock market digitally. He gives us a rundown on the simple digital process, tells us about the costs involved, explains its importance, and provides his future roadmap of solutions at Vested Finance. Viram Shah is co-founder and CEO at Vested Finance......",
+    "url": "https://archive.org/details/Emerson_Unitarian_Universalist_Church-5a96e3adead70ed5de45b8c4d1d40218"
+  },
+  {
+    "topic": "cloud computing",
+    "title": "Keynote  - Jean-Luc Chatelain, EVP, Strategy & Technology, DataDirect Networks",
+    "description": "Recording from the DCIA's Cloud Computing Conference at NAB . More details at dcia.info/activities/ccc-nab/...",
+    "url": "https://archive.org/details/Keynote6-Jean-lucChatelainEvpStrategyTechnologyDatadirectNetworks"
+  },
+  {
+    "topic": "cloud computing",
+    "title": "Panel  - Privacy Issues, Reliability Questions, Security Concerns in the Cloud Computing Space",
+    "description": "Recording from the DCIA's Cloud Computing Conference at NAB . More details at dcia.info/activities/ccc-nab/...",
+    "url": "https://archive.org/details/Panel2PrivacyIssuesReliabilityQuestionsSecurityConcernsInThe"
+  },
+  {
+    "topic": "cloud computing",
+    "title": "Episode : Evolution of Work",
+    "description": "Peter and Dan discuss Software as a Service (SaaS) and AIaaS, both vital tools for businesses seeking to scale with a leaner organization. Particularly as workforces become distributed and companies race to digitize, cloud computing is now more important than ever before. In this episode: Dan talks about the historic opportunity to use our current [...]......",
+    "url": "https://archive.org/details/zlnj6tnj5esomy6fssdifdeh68zdhbjz7acrtlfp"
+  },
+  {
+    "topic": "cloud computing",
+    "title": "JPMorgan Chase CIO Lori Beer Talks Driving Business Value Through Emerging Technologies",
+    "description": ": Lori joins us for a conversation about how her team explores use cases for emerging technologies to add value to the business. She explains the process behind the company's cloud-based core system modernization and also dives deep into the potential value-add coming from advancements in generative AI, quantum computing, augmented reality, and blockchain in banking. Lori also walks through the cycle of innovation within the company and how she partners with the rest of the business to bring these innovations to life and develop an internal ecosystem of sorts......",
+    "url": "https://archive.org/details/wjdhmfudeiy0pkavagbqlu0fmsuhihlfxoejfsiw"
+  },
+  {
+    "topic": "cloud computing",
+    "title": "A Soul's Life - James Gordon Graham",
+    "description": "\\\"I want to create amazing things, like free energy, vehicles with anti-gravity devices, and amazing technology. I know that those technologies exist, that is possible to do this. And this is what excites me, getting that creativity to do it.\\\"- James Gordon GrahamIn this episode, you'll hear about:My guest James, and his journey of discovery through the multiple levels of knowledge, exploring futuristic technologies and going deep into the emotional evolution of the human consciousness.James Gordon Graham is an expert in multidimensional knowledge, and coauthor of The Genius Groove......",
+    "url": "https://archive.org/details/yhjbv6kzd1vy6yyuvtf8bd4btular4mexmxvy1ak"
+  },
+  {
+    "topic": "cloud computing",
+    "title": "European_Union_Shifting_Attitude_Towards_Regulation_Of_The_Cloud_",
+    "description": "News Desk: Breaking Analysis: The European Union's Shifting Attitude Towards Regulation of the Cloud. Uploaded and released into the Public Domain by Gerard Arthus under the Creative Commons License.",
+    "url": "https://archive.org/details/European_Union_Shifting_Attitude_Towards_Regulation_Of_The_Cloud_"
+  },
+  {
+    "topic": "cloud computing",
+    "title": "It Takes an (Open Source) Village to Build a Cloud",
+    "description": "Just as Linux, Apache, MySQL and Php/Perl/Python formed the open source foundations for the read- write web open source technologies like Xen, KVM and many others along with Linux are forming the foundations of the cloud. To truly build robust cloud computing environments it requires a wide variety of open source software that when combined create environments that are much greater than the sum of their parts. This session will address how you use open source software and agile operations methodologies such as DevOps to create automated, scalable cloud computing environments......",
+    "url": "https://archive.org/details/ItTakesAnopenSourceVillageToBuildACloud"
+  },
+  {
+    "topic": "cloud computing",
+    "title": "Interview with Ivo Jansch",
+    "description": "Interview with Ivo Jansch to introduce him as a speaker for the upcoming PHPBenelux Conference .",
+    "url": "https://archive.org/details/InterviewWithIvoJansch"
+  },
+  {
+    "topic": "cloud computing",
+    "title": "NSA Comedy Tour . By EthicsInTech Feb th",
+    "description": "Peter ffoulkes, Research Director of Cloud Computing at  Research Justin Hall, Volunteer On Behalf of the NSA with Citizen Cloud Initiative April Glaser, Staff Member from the Electronic Frontier Foundation Moderated By: Vahid Razavi, CEO of BizCloud & Founder of EthicsInTech For Media inquiries please contact: http://EthicsInTech.com  EthicsInTech™ in conjunction with BizCloud Presents \"Got Ethics?\" A fun, patriotic constitutional comedy focused on the NSA!  Followed by a drink mixer of Hackers for Good! With a lively panel of geeks. An epic EthicsInTech production!   It's better to laugh than cry.  In a time where Miss Manners suggests it's polite to say goodbye to the NSA agent that's listening in when you hang up you might feel a sob coming on......",
+    "url": "https://archive.org/details/NSAComedy2.0"
+  },
+  {
+    "topic": "cloud computing",
+    "title": "Auburn Business Assistance Program: Computer Networks & Cloud Computing",
+    "description": "Computer technology is not one-size fits all. Do you know what computer hardware is best for your business? Hear experts explain how cloud computing is rapidly transforming the way companies do business; from collaboration tools to accounting systems and point of sale platforms. New cloud-based tools are making it easier to access information from anywhere, at any time....",
+    "url": "https://archive.org/details/aubwa-Auburn_Business_Assistance_Program_-_Computer_Networks_Cloud_Computing"
+  },
+  {
+    "topic": "blockchain",
+    "title": "Citadel Is Coming to Crypto",
+    "description": "This episode is sponsored by Nexo.io, Arculus, FTX US and Cointelli. While much of the recent focus of \\\"The Breakdown\\\" has been on the relationship between crypto and geopolitics, today's episode revisits the institutional narrative that drove industry adoption in  and . NLW looks at Citadel CEO Ken Griffin's recent comments on crypto, numerous TradFi execs taking jobs in crypto and a Big Four accounting firm buying NFTs to position itself to help with corporate NFT strategy......",
+    "url": "https://archive.org/details/qpegxplcv6gm1xka2ykwcun5rug5de9fajggi2ij"
+  },
+  {
+    "topic": "blockchain",
+    "title": "RT # - Free Speech, Censorship, & Cryptocurrency",
+    "description": "It's time for another Roundtable discussion and somehow Brent managed to pick the topic again! We lead off with some news about Kucoin and their headquarters, Vitalik proposed a new algorithm to prevent % attacks, and a quick update on IOTA drama. For the Roundtable we discuss censorship, with media giants shutting down Alex Jones for violations of terms of service the boys have to ask... is this a good idea? What doors are we opening here? And does cryptocurrency have anything to say about this dynamic? Let the debates begin! LINKS TO TOPICS FROM THE SHOW Article - Vitalik's new Consensus Algorithm to make % attack obsolete Blog - A Guide to % Fault Tolerant Consensus by Vitalik Buterin Screenshot - IOTA Drama Update Article - Blockchain Can Prevent Tech Giants' Internet Censorship Article - Alex Jones is far from the only person tech companies are silencing Article - YouTube isn't infringing on Alex Jones' freedom of speech, it's enforcing the rules Article - #Metoo in China: fledgling movement in universities fights censorship JOIN OUR DISCORD HERE HELP SUPPORT THE PODCAST! PLEASE Subscribe and give us an honest rating on iTunes......",
+    "url": "https://archive.org/details/rtlp06edyewcipheppdf8tlkczlceudmeqrgmo4e"
+  },
+  {
+    "topic": "blockchain",
+    "title": "Planet Dance Mixshow Broadcast",
+    "description": "#PDMB  codinome=blockchain Part#Gaia - Saint vitusFerry Corsten pres. Gouryella - SurgaNwyr & Andrew Rayel - The melody (Lucas N. Uplifting Remix)Mark Sixma pres......",
+    "url": "https://archive.org/details/32i9sogs2j1bihcjwomqfchhmgbj3qwbjttitpg2"
+  },
+  {
+    "topic": "blockchain",
+    "title": "The Mashinsky Celsius Fraud Was Obvious Over a Year Before Government Noticed",
+    "description": "Peter Schiff debates Alex Mashinsky on Kitco News. Recorded November , . On Jan......",
+    "url": "https://archive.org/details/youtube-OBohJXhpRHU"
+  },
+  {
+    "topic": "blockchain",
+    "title": "Deshaun Trade Scenarios With Special Guest Al Wallace",
+    "description": "Former Carolina Panther and owner of the best arms to ever grace One Day Contract Al Wallace joins the show to talk about whether or not he's into blockchain, cooking and acupuncture, what he likes to cook on the grill and, of course, Deshaun Watson. The crew and Al break down how much Watson is worth, which hypothetical trade offer makes the most sense and whether Dave Tepper being 'obsessed' with Watson is a good or a bad thing. Would Watson even want to come to Carolina?  They'll also talk Taylor Moton, Curtis Samuel and decide which positions are coming via free agency or through the draft - plus, they going to *gulp* defend Teddy Bridgewater? One Day Contract is a proud part of The Riot Network - be sure to rate, review and subscribe!......",
+    "url": "https://archive.org/details/xijqhyno2h48l3cpeqodkfueegu1gacht3jwhvos"
+  },
+  {
+    "topic": "blockchain",
+    "title": "github.com-WeMakeDevs-roadmaps_-_--_--",
+    "description": "This repository contains the list of communities and job portals you can join and apply to. 🛣 Mentorship Roadmaps 🛣 Are you prepared to embark on your quest to receive mentoring and land a job? You've arrived exactly where you need to be. Follow the roadmaps, educate yourself, and then apply for positions......",
+    "url": "https://archive.org/details/github.com-WeMakeDevs-roadmaps_-_2023-07-02_09-09-19"
+  },
+  {
+    "topic": "blockchain",
+    "title": "github.com-ptahdao-lmr-partners_-_--_--",
+    "description": "None PTAHDAO PtahDAO, As the world's first DAO governance asset trust program, Incubated by LMR Partners-web. Technology Lab, Is a groundbreaking combination of blockchain technology and financial investment, Which deeply implements the logic and rules of DAO governance, Realizing the concept of inclusive financial services and driving financial innovation. To restore the repository download the bundle wget https://archive.org/download/github.com-ptahdao-lmr-partners_-_--_--/ptahdao-lmr-partners_-_--_--.bundle and run: git clone ptahdao-lmr-partners_-_--_--.bundle Source: https://github.com/ptahdao/lmr-partners Uploader: ptahdao Upload date: --......",
+    "url": "https://archive.org/details/github.com-ptahdao-lmr-partners_-_2023-07-20_10-00-22"
+  },
+  {
+    "topic": "blockchain",
+    "title": "Episode  - Blockchain development high in demand, AkonCity, and Craig Wright... again.",
+    "description": "Hello everyone! Welcome to Flagship Friday.This week we're going over blockchain development's rise in demand, Akon founding a city and Craig Wright... again. Tune in for more!Rapid FireBlockchain is Most In-Demand Skill in  LinkedIn ReportCompanies weren't even looking at blockchain a year ago and now it's the top in-demand hard skill-beating out other hot skills like AI and cloud computing.Warren Buffett had his worst year in a decade.Berkshire Hathaway lagged behind in ......",
+    "url": "https://archive.org/details/wjuulnrbpeaxi9tldy7hay3awpacf8rva8oav3he"
+  },
+  {
+    "topic": "blockchain",
+    "title": "Millionen US-Dollar in  Wochen - Ist Lisk das nächste große Blockchain Start-up?",
+    "description": "No Description...",
+    "url": "https://archive.org/details/isjeilnue8cl8zy8np0b75xsz34ou5snauzhnmvy"
+  },
+  {
+    "topic": "blockchain",
+    "title": "Is the Jobs Report Hiding Economic Weakness?",
+    "description": "This episode is sponsored by Nexo.io, Chainalysis, FTX US and NEAR. Last week, the Bureau of Labor Statistics reported that , U.S. jobs were added in July......",
+    "url": "https://archive.org/details/le1plhczew7atoaw33jat6yimojmdy1jwhpdhcgj"
+  },
+  {
+    "topic": "blockchain",
+    "title": "Episode : Privacy Is Dead",
+    "description": "In this episode, Peter talks about when there is no privacy, it's hard to do wrong-doing. When everyone is watching, you think about the consequences of your actions. Dan believes blockchain will come into existence because of public demand......",
+    "url": "https://archive.org/details/johygiurn5yegb2k5nddomqmnz6mwrvhywcw71u4"
+  },
+  {
+    "topic": "blockchain",
+    "title": "Weekly Roundup // (Do Kwon apprehended, SEC v Coinbase, bank crisis retrospective) (EP.)",
+    "description": "Matt and Nic return for another week of news and deals. In this episode: Matt's turkey trouble continuesNic's vespa problemNic's latest Choke Point . articleDid the government destroy Signature on purpose?Who is the main architect of Choke Point .?Why was Signature closed when PacWest and First Republic were given time?The Catch- in NY banking lawWho has recourse in the Signature situation?Why we won't be going offshoreThe SEC announces charges against Justin Sun and celebrity endorsersThe SEC sends Coinbase a Wells NoticeFTX creditors recoup $m from Modulo CapitalReps Emmer and Soto introduce the Blockchain Regulatory Certainty ActThe White House report is hostile to cryptoMatt's Hong Kong conspiracy theoryIs the EU racing ahead of the US in terms of regulation?The XRP case is nearing summary judgmentBitwise announces their futures ETF $BITCWe read some of our podcast reviewsContent mentioned:Nic in Pirate Wires, Did The Government Start A Global Financial Crisis In An Attempt To Destroy Crypto?......",
+    "url": "https://archive.org/details/jdsfhqvaqcubkqwq9lmzoexh8iui3q16k6wssyvw"
+  },
+  {
+    "topic": "blockchain",
+    "title": "Book Club: Money (#)",
+    "description": "Episode  with Henry and Dylan-Today they're discussing Money: The True Story of a Made Up Thing by Jacob GoldsteinRead today's BOOK CLUB BOOK:Money: The True Story of a Made-Up Thing by Jacob GoldsteinWatch on YouTube & SubscribeRead the full Show Notes.Dishin' out Smart Nonsense about:How money originated from the IOU How goldsmiths led to the beginnings of banksThe effect of attitudes on monetary stabilityLinksPod Club: Interview with Ian Lapham - Blockchain for Dummies | Smart Nonsense Pod #Planet Money | NPRWhat monkeys can teach us about money | BBCInfluence: The Psychology of Persuasion by Robert B. CialdiniHere's the full Show Notes.Subscribe on YouTubeWatch Henry's last YouTube video.P.S. Toss us a -star review :)......",
+    "url": "https://archive.org/details/lywh10pegdngdm4dfpgxuw4iofloew57uyxgicki"
+  },
+  {
+    "topic": "blockchain",
+    "title": "The Case for $M Bitcoin",
+    "description": "A reading of Bitcoin author Nik Bhatia's latest essay.",
+    "url": "https://archive.org/details/m7doiubgxoaaa3do6kykagrr38g3wl4qwvyprtlv"
+  },
+  {
+    "topic": "blockchain",
+    "title": "The Senate Shoves a Dangerous, Last-Minute $B Crypto Provision Into the Infrastructure Bill",
+    "description": "The bipartisan bill contains potential impacts to crypto intermediaries.",
+    "url": "https://archive.org/details/lpo6pzvnwjosnmocycjmbo96bhv0quxmea2xcoet"
+  },
+  {
+    "topic": "blockchain",
+    "title": "The Year of Institutional Bitcoin, Feat. Galaxy's Alex Thorn",
+    "description": "This was the year that institutions finally, truly arrived.",
+    "url": "https://archive.org/details/fbhothchueej6gesb63b7k0k5j7jth4kherqv6yq"
+  },
+  {
+    "topic": "blockchain",
+    "title": "Le futur de la monnaie sera-t-il crypto ?",
+    "description": "Abderrahmane Chaoui partage les conclusions de l'etude \\\"The Future of Money\\\" dont il est le co-auteur.",
+    "url": "https://archive.org/details/kln2pdsgmvyy9qjrokdhhyzypyrbnj9s9rtgdm07"
+  },
+  {
+    "topic": "blockchain",
+    "title": "Crypto Goes On Offense as the Legal Tide Begins to Turn",
+    "description": "The crypto industry is officially bringing the fight to regulators. Coinbase has filed a motion to dismiss the SEC's lawsuit against them, while the Blockchain Association is arguing that SEC Chair Gary Gensler should recuse himself from all crypto enforcement actions. Enjoying this content?SUBSCRIBE to the Podcast: https://pod.link/Watch on YouTube: https://www.youtube.com/nathanielwhittemorecryptoSubscribeto the newsletter: https://breakdown.beehiiv.com/Join the discussion: https://discord.gg/VrKRrfKCzFollow on Twitter:NLW: https://twitter.com/nlwBreakdown: https://twitter.com/BreakdownNLW...",
+    "url": "https://archive.org/details/kkhrl0tkuga2fw5l3sod1abg8vdggqnh9wyampie"
+  },
+  {
+    "topic": "blockchain",
+    "title": "LEIGH: Meet a Freelance Cypherpunk Developer in Africa",
+    "description": "In this audio interview, CoinDesk's Leigh Cuen and Fode Diop, founder of the Dakar Bitcoin Developers meetup in Senegal, talk about bitcoin in Africa. This episode is sponsored by Crypto.com, Bitstamp and Nexo.io.From how mobile devices offer the primary point of access and social media groups offer local liquidity, Cuen and Diop explore what cryptocurrency adoption actually looks like in emerging markets like Senegal. Like many bitcoiners, Diop got his start in the crypto industry working for token projects in . From there, he got involved with the Oakland Blockchain Developers Meetup, and eventually took that experience back to Senegal when he moved back to his hometown to be with family during the COVID- crisis. \\\"I started with Ethereum because it was easier to have access to...Philosophically, I no longer align with the Ethereum ethos,\\\" Diop said......",
+    "url": "https://archive.org/details/fr2cejkh67y1stncvj5bd9j8irg2car04xjqpjac"
+  },
+  {
+    "topic": "data science",
+    "title": "Relationship between Parentification and Intimacy Status on Emerging Adults",
+    "description": "This study is a quantitative study that will measure the relationship between two variables, parentification and intimacy status on emerging adults. As on previous studies stated that individuals that had experienced parentification don’t have time to carry out their developmental stage as an adolescent because they have a bigger responsibility towards their other family member(s). This study is conducted to see if individuals who experience parentification will tend to have better intimacy with those who are not a part of their family or vice versa......",
+    "url": "https://archive.org/details/osf-registrations-4khq8-v1"
+  },
+  {
+    "topic": "data science",
+    "title": "Marlboro Man Many Lab",
+    "description": "My Master Students replicating the \"Marlboro Man do not cry\"-Study in a many lab style semester-project...",
+    "url": "https://archive.org/details/osf-registrations-4yvrx-v1"
+  },
+  {
+    "topic": "data science",
+    "title": "Can the privacy war between tech giants force change on industry? | Inside Story",
+    "description": "Two of the world's biggest tech giants - Apple and Facebook - appear to be going to war, over just how much data tech companies should take and how much say users should have.Apple's new update will mean whenever users open an app, they'll be asked whether they want their data to be tracked.Facebook's not happy about it, so it's rolling out the same kind of privacy options... but spun in a very different way.Apple says Facebook doesn't need so much data.The social media says apple's updates hurts small businesses.Presenter: Kim VinnellGuests:In Rebecca MacKinnon, Director of Ranking Digital Rights.Michael Veale, Lecturer in Digital Rights and Regulation at Faculty of Laws at University College London.Eric Null, United States Policy Manager at Access Now - a group that defends digital rights.- Subscribe to our channel: http://aje.io/AJSubscribe - Follow us on Twitter: https://twitter.com/AJEnglish - Find us on Facebook: https://www.facebook.com/aljazeera - Check our website: https://www.aljazeera.com/#AlJazeeraEnglish #InsideStory #Facebook #Apple...",
+    "url": "https://archive.org/details/x9xm9gl7qwuznrrdv9fitzjzmbisggjumdtswrjk"
+  },
+  {
+    "topic": "data science",
+    "title": "A Billion Suns - Gunship ()",
+    "description": ".",
+    "url": "https://archive.org/details/thingiverse-5880502"
+  },
+  {
+    "topic": "data science",
+    "title": "Test Tube Holder (laser cut, parametric) ()",
+    "description": "This is a simple stand to hold some ml cm diameter glass tubes I got from Amazon. I needed to stand them up to stick a pH probe in them, so I made this. The Fusion  model included here is fully parametric, so it can be easily modified for a different size or number of tubes......",
+    "url": "https://archive.org/details/thingiverse-5836010"
+  },
+  {
+    "topic": "data science",
+    "title": "Vacuum Pellet Die ()",
+    "description": "This is a Die Pellet Press designed to build cylindrical salt pellets used with the [Griggs-type Apparatus] []. Ideas were also taken from [Pellet Press Dies] [] and [Specac] [] websites. This design is suitable for steel CNC......",
+    "url": "https://archive.org/details/thingiverse-5866901"
+  },
+  {
+    "topic": "data science",
+    "title": "VICE News Daily: Beyond The Headlines - December ,",
+    "description": "Subscribe to VICE News here: http://bit.ly/Subscribe-to-VICE-News The VICE News Capsule is a news roundup that looks beyond the headlines. Today: Kenyan lawmakers approve controversial anti-terror legislation but not without a fight, PETA uncovers shocking dog skin trade in China, U.S. Navy shows off a drone that looks like it belongs in 'Jaws', and deadly fighting between vigilante groups in western Mexico......",
+    "url": "https://archive.org/details/youtube-mRhC3zjm8RY"
+  },
+  {
+    "topic": "data science",
+    "title": "Effects of an Unconditional Cash Transfer on the Economic and Psychological Well-being of Low-Income Households in Compton, CA",
+    "description": "This study examines the economic and psychological effects of a guaranteed income program on low-income households in Compton, California.",
+    "url": "https://archive.org/details/osf-registrations-9pdmu-v1"
+  },
+  {
+    "topic": "data science",
+    "title": "LDM #: Honeywell Cageable Vertical Gyro - Teardown and Tests",
+    "description": "This video shows the teardown and test of a vintage Honeywell Cageable Vertical Gyro JGN-A (). : - Intro : - Teardown : - Test setup : - First test : - Potentiometer to synchro converter : - Servo Control Loop block diagram : - Test with Collins ADI- (gyro rotor off) : - Test with Collins ADI- (gyro rotor on) The servo control amplifier: https://youtu.be/PXzflYMJXk Teardown and test of ADI-: https://youtu.be/uMyaEERJQ Elliott Air Data Computer: https://youtu.be/kUXGsXgd_M...",
+    "url": "https://archive.org/details/youtube-F-6XXGupvAA"
+  },
+  {
+    "topic": "data science",
+    "title": "Risk, prevalence, incidence, and associated factors with suicide in Cancer: An overview of systematic reviews with meta-analysis",
+    "description": "Systematic reviews evaluating the importance of suicide in cancer are increasing. In this context, an overview of reviews may be helpful to summarize these reviews and to propose future lines of research.",
+    "url": "https://archive.org/details/osf-registrations-zsdta-v1"
+  },
+  {
+    "topic": "data science",
+    "title": "The Effect of Scapegoating Purges on Autocratic Popular Approval: Evidence from Turkey",
+    "description": "An online survey experiment (N=,) to examine the effect of scapegoating purges on autocratic popular approval under Erdogan in Turkey.",
+    "url": "https://archive.org/details/osf-registrations-t7mdq-v1"
+  },
+  {
+    "topic": "data science",
+    "title": "(Western) Bias in Applied Linguistics publishing",
+    "description": "A systematic inquiry into who gets to publish about whom in the top five field journals for Applied Linguistics.",
+    "url": "https://archive.org/details/osf-registrations-rgqcw-v1"
+  },
+  {
+    "topic": "data science",
+    "title": "Materials",
+    "description": "Includes the scenarios used in each experiment. Three dependent variables: extent Answered, common Cause, Treatability extent Answered:To what extent did the response “because he has campsismus” answer Aliyah’s question about why the patient showed the symptom? common Cause: How strongly do you agree or disagree with the idea that there is a common cause of the symptoms that is shared by all and only people with campsismus (whether or not we know what that cause is)? Treatability: How treatable do you think campsismus is?...",
+    "url": "https://archive.org/details/osf-registrations-htrv8-v1"
+  },
+  {
+    "topic": "data science",
+    "title": "Variables",
+    "description": "We describe the manipulated variables, the measured variables, the covariates, the other predictors and the indices we will use.",
+    "url": "https://archive.org/details/osf-registrations-xa8m9-v1"
+  },
+  {
+    "topic": "data science",
+    "title": "Degree Spoiler ()",
+    "description": "For Science Fair With Netfabb Fix...",
+    "url": "https://archive.org/details/thingiverse-629123"
+  },
+  {
+    "topic": "data science",
+    "title": "Entitlement to Belong",
+    "description": "Exploring entitlement to belong...",
+    "url": "https://archive.org/details/osf-registrations-v89t7-v1"
+  },
+  {
+    "topic": "data science",
+    "title": "Trans Care: An Online Intervention to Reduce Symptoms of Gender Dysphoria",
+    "description": "The current project aims to improve the well-being of trans and nonbinary (TNB) individuals through an online intervention (Trans Care) targeting the reduction of symptoms of gender dysphoria. The Trans Care intervention will involve the creation of an online intervention comprised of eight modules intended to reduce symptoms of gender dysphoria, increase active coping, and improve the well-being of TNB individuals. Aim  (current study) involves a randomized clinical trial in which participants’ scores of psychological wellbeing and coping strategies in the intervention vs waitlist control group will be analyzed......",
+    "url": "https://archive.org/details/osf-registrations-kbfpy-v1"
+  }
+]
